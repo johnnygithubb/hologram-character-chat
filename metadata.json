@@ -1,0 +1,6 @@
+{
+  "name": "The Eternal Dialogue",
+  "description": "A minimalist monochrome holographic art installation and observation terminal where two distinct AI minds engage in a continuous philosophical dialogue.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
